@@ -40,9 +40,9 @@ Item {
         triggeredOnStart: true
         onTriggered: {
             var dateTime = new Date()
-            hour.text = Qt.formatDateTime(dateTime,'hh')+':'
+            hour.text = Qt.formatDateTime(dateTime,'h')+':'
             mins.text = Qt.formatDateTime(dateTime,'mm')+':'
-            secs.text = Qt.formatDateTime(dateTime,'ss')
+            secs.text = Qt.formatDateTime(dateTime,'ss ap')
         }
     }
 
