@@ -1,8 +1,8 @@
 Custom Changes
 ==============
-- add option to hide time.
-    - when showing time also provide option to show in 12hr or 24hr formats
-- add KDE Neon icon option
+- [ ] add option to hide time.
+    - [ ] when showing time also provide option to show in 12hr or 24hr formats
+- [ ] add KDE Neon icon option
 
 
 Simple Monitor for Plasma
