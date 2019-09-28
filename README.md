@@ -1,3 +1,9 @@
+Custom Changes
+==============
+- add option to hide time.
+    - when showing time also provide option to show in 12hr or 24hr formats
+    
+
 Simple Monitor for Plasma
 =========================
 
