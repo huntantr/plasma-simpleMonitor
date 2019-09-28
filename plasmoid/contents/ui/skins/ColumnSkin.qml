@@ -135,6 +135,7 @@ BaseSkin {
                 }
             }
 
+            /** hiding for now, want to add option to hide.
             TimePicker {
                 id: timePicker
 
@@ -147,6 +148,7 @@ BaseSkin {
                 Layout.preferredWidth: implicitWidth
                 Layout.preferredHeight: implicitHeight
             }
+            **/
 
             Rectangle {
                 color: "white"
