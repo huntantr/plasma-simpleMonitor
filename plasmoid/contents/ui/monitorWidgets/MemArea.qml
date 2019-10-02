@@ -55,6 +55,11 @@ Item {
                 font { family: doppioOneRegular.name; pointSize: 12 }
                 color: "white"
             }
+            Text {
+                text: i18n("(%1\%)", ((memUsed-(memBuffers+memCached)).toFixed(2)/memTotal.toFixed(2)).toFixed(2))
+                font { family: doppioOneRegular.name; pointSize: 12 }
+                color: "white"
+            }
         }
 
         RowLayout {
