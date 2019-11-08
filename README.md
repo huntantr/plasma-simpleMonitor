@@ -4,6 +4,7 @@ Custom Changes
     - [ ] when showing time also provide option to show in 12hr or 24hr formats
 - [ ] add KDE Neon icon option
 - [x] add percent of memory use
+- [ ] add hard disk space usage: https://github.com/KDE/plasma-workspace/tree/master/applets/systemmonitor
 
 
 Simple Monitor for Plasma
