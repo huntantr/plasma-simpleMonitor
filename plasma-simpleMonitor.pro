@@ -52,6 +52,7 @@ DISTFILES += \
     plasmoid/contents/images/distro-arch.svg \
     plasmoid/contents/images/distro-fedora.svg \
     plasmoid/contents/images/distro-manjaro.svg \
+    plasmoid/contents/images/distro-kdeneon.svg \
     plasmoid/contents/images/distro-kubuntu.svg \
     plasmoid/contents/images/distro-opensuse.svg \
     plasmoid/contents/images/distro-tux.svg \
