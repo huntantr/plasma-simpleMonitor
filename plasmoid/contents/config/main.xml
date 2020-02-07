@@ -35,6 +35,7 @@
                 <choice name="Tux"/>
                 <choice name="Slackware"/>
                 <choice name="Ubuntu"/>
+                <choice name="KDENeon"/>
                 <choice name="Kubuntu"/>
                 <choice name="OpenSUSE"/>
                 <choice name="Manjaro"/>
