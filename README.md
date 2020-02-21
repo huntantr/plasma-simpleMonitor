@@ -1,3 +1,6 @@
+My custom changes are on the 'custom' branch.
+
+
 Simple Monitor for Plasma
 =========================
 
